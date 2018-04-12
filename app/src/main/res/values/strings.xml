@@ -17,6 +17,6 @@
     <string name="title_activity_driver_maps">Map</string>
 
 
-        <string name="spinner_title">Select Category</string>
+    <string name="spinner_title">Select Category</string>
 
 </resources>
